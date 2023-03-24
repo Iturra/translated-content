@@ -56,7 +56,7 @@ IANA es el registro oficial de los tipos de media MIME y mantiene una [lista ofi
 | `.tar`         | Aerchivo Tape (TAR)                                                                                    | `application/x-tar`                                     |
 | `.tif .tiff`   | Formato de archivo de imagen etiquetado (TIFF)                                                         | `image/tiff`                                            |
 | `.ttf`         | Fuente TrueType                                                                                        | `font/ttf`                                              |
-| `.vsd`         | Microsft Visio                                                                                         | `application/vnd.visio`                                 |
+| `.vsd`         | Microsoft Visio                                                                                         | `application/vnd.visio`                                 |
 | `.wav`         | Formato de audio de forma de onda (WAV)                                                                | `audio/x-wav`                                           |
 | `.weba`        | Audio WEBM                                                                                             | `audio/webm`                                            |
 | `.webm`        | Video WEBM                                                                                             | `video/webm`                                            |
